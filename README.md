@@ -6,9 +6,9 @@ To-Do List is an iOS  app that is designed to manage our daily base tasks. This 
 
 # Software Requirements
 
-## Programming Language : Objective-C
+#### Programming Language : Objective-C
 
-### Framework: XCode9 
+#### Framework : XCode9 
 
 # App Preview
 
