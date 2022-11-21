@@ -1,16 +1,14 @@
 # iOS-To-Do-List-app
-simple lite to do list 
 
-# Introduction
-To-Do List is an iOS  app that is designed to manage our daily base tasks. This application  
+## Introduction
+To-Do List is an iOS  app that is designed to manage our daily base tasks. This is a mobile app for ios users. It has been developed using MVC design pattern. This mobile app will help user to have more productive daily life. 
 
-# Software Requirements
+## Software Requirements
 
-#### Programming Language : Objective-C
+- **Programming Language:** Objective-C
+- __Framework:__ XCode9 
 
-#### Framework : XCode9 
-
-# App Preview
+## App Preview
 
 ![Image](https://github.com/Meharab/iOS-To-Do-List-app/blob/master/Screenshot%202020-10-12%20112815.png)
 ![Image](https://github.com/Meharab/iOS-To-Do-List-app/blob/master/Screenshot%202020-10-12%20112945.png)
